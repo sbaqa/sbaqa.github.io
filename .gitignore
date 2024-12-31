@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+tests_config.ini
+../.idea/
+env/
+venv/
+ENV/
