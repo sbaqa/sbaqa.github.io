@@ -1,4 +1,4 @@
-# 🧑‍💻 sbaqa.github.io — Personal Website
+# 🧑‍💻 sbdev.github.io — Personal Website
 
 Welcome to the repository of my personal portfolio website!  
 Built with Flask, this site showcases my projects, skills, and a bit of my personality.  
