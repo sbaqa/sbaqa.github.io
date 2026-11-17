@@ -40,6 +40,6 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/sbaqa/sbaqa.github.io.git
-   cd sbaqa.github.io
+   cd sbqeng.github.io
 
 
